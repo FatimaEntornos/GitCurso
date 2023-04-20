@@ -1,3 +1,2 @@
 # GitCurso
-vgvhvhjgkj
-kjbkjhkjhkjhkjhkj
+Curso para 2ºBachillerato
